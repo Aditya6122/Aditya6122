@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya6122
-- 👀 I’m interested in things related to Machine learning
+- 👀 Learning things that I am interested in
 - 🌱 I’m currently doing B.Tech in Computer Science and Engineering at Indian Institute of Information Technology Kottayam
 
 <!---
